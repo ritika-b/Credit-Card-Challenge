@@ -1,6 +1,6 @@
 ## INTRO
 
-Thanks Kellyn and everyone at Braintree for this opportunity; unlike any other coding challenge I've encountered, I found this one enjoyable and fun to implement.
+This is a credit card processing program.
 
 ## RUN-THROUGH
 
